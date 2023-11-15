@@ -1,0 +1,1 @@
+from wafer_fault_detection.entity.config_entity import (DataIngestionConfig)
