@@ -1,0 +1,13 @@
+notebook
+pandas
+numpy
+matplotlib
+python-box
+PyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+scipy
+scikit-learn
+-e .
